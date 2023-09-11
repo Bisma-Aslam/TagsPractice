@@ -1,0 +1,24 @@
+body{
+    background-color:antiquewhite ;
+}
+h3{
+    color:blueviolet;
+    border: 2px solid palevioletred
+    
+}
+p{
+    margin:5px;
+    padding:3px
+
+}
+table, th, td{
+    border:1px solid black;
+    
+    border-radius:10px;
+}
+.list{
+    background-color:plum ;
+}
+#ind{
+    background-color:brown ;
+}
